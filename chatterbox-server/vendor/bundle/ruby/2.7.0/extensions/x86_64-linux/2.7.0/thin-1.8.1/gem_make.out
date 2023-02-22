@@ -1,0 +1,17 @@
+current directory: /home/maggie/Desktop/phase-3/phase-3-chatterbox-sinatra-react-lab/chatterbox-server/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 -r ./siteconf20230222-159771-1biqgog.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/maggie/Desktop/phase-3/phase-3-chatterbox-sinatra-react-lab/chatterbox-server/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= clean
+
+current directory: /home/maggie/Desktop/phase-3/phase-3-chatterbox-sinatra-react-lab/chatterbox-server/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\=
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.so
+
+current directory: /home/maggie/Desktop/phase-3/phase-3-chatterbox-sinatra-react-lab/chatterbox-server/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= install
+/usr/bin/install -m 0755 thin_parser.so ./.gem.20230222-159771-u3hamb
